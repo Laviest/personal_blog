@@ -19,7 +19,7 @@ function Header() {
             <div className='md:float-left block'>
                 <Link href="/">
                     <span className='cursor-pointer font-bold text-4xl text-white'>
-                        GraphCMS
+                        The Joshev Letter
                     </span>
                 </Link>
             </div>
